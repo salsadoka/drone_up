@@ -1,8 +1,4 @@
 
-#install project
-sudo apt-get install git
-git clone https://github.com/mikladoka/drone_up
-
 #install docker
 sudo apt-get remove docker docker-engine docker.io
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
