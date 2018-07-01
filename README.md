@@ -17,4 +17,4 @@ DRONE_ADMIN=
 DRONE_HOST= 
 EOM
 ```
-1. Run start_up script
+4. Run start_up script
